@@ -1,7 +1,11 @@
 # TwelveFactorApp_DevOpsExperience-Jun2023
-Conteúdos sobre Twelve Factor App relativos à minha apresentação durante a edição de Junho-2023 do DevOps Experience.
+Conteúdos sobre **Twelve Factor App** relativos à minha apresentação durante a edição de **Junho-2023** do **DevOps Experience**.
+
+---
 
 Os slides desta apresentação estão no diretório **Slides**.
+
+Baixe o e-book gratuito sobre Twelve Factor App (12 Fatores) acessando este [**link**](https://azurenapratica.com/ebook-tfapp/).
 
 Não assistiu minha palestra anterior, durante a edição de Abril-2023? Acesse o link a seguir com os materiais:
 
